@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>OrionUpdateTest</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Sun, 18 Aug 2024 17:18:49 +0530</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/csramkumar/MACUpadteTest/releases/download/prod/OrionUpdateTest.dmg" length="850068" type="application/octet-stream" sparkle:edSignature="d4xXLMFqwaSyHUajd8YrF3PXdMeTaxaHmdA8TsC5aVB7nsNCCF6Yd5VzsWPOEjI1WoRevucbB6IlGxIgGYrADQ=="/>
+        </item>
+    </channel>
+</rss>
