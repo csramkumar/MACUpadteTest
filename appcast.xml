@@ -3,12 +3,12 @@
     <channel>
         <title>OrionUpdateTest</title>
         <item>
-            <title>0.9</title>
-            <pubDate>Sun, 18 Aug 2024 17:18:49 +0530</pubDate>
+            <title>1.1</title>
+            <pubDate>Sun, 18 Aug 2024 17:40:13 +0530</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/csramkumar/MACUpadteTest/releases/download/prod/OrionUpdateTest.dmg" length="850068" type="application/octet-stream" sparkle:edSignature="d4xXLMFqwaSyHUajd8YrF3PXdMeTaxaHmdA8TsC5aVB7nsNCCF6Yd5VzsWPOEjI1WoRevucbB6IlGxIgGYrADQ=="/>
+            <enclosure url="https://github.com/csramkumar/MACUpadteTest/releases/download/prod/OrionUpdateTest.dmg" length="850411" type="application/octet-stream" sparkle:edSignature="T3iPifEu16b/XJHqiySG3utCbFkT4W58P0F5uqMwWcigET5Kn08SwfgAYhYorITooA8aI6bKebx/Ui7WRpnSCg=="/>
         </item>
     </channel>
 </rss>
